@@ -73,9 +73,9 @@ User --|> News
 
 ## :card_file_box: Fucionalidades do Projeto
 
-- [x] Gerenciamento de Contas
+- [x] Gerenciamento de Usuários
     - Criar conta bancária
-    - Listar contas bancárias
+    - Buscar Usuário
 
 ## :computer: Rodando o Projeto
 
@@ -99,7 +99,7 @@ Execute a classe principal Application.java.
 
 ## :arrows_counterclockwise: Endpoints
 
-- POST /users - Criar usuário
+- POST /users - Criar conta de usuário
 - GET /users/{id} - Buscar usuário pelo ID
 
 ## :woman_technologist: Autora

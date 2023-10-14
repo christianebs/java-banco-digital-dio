@@ -10,7 +10,7 @@ Este projeto faz parte do módulo "Ganhando Produtividade com Spring Framework e
 
 ## :large_blue_diamond: Diagrama de Classes
 
-```shell
+```mermaid
 classDiagram
 class User {
 +name: string

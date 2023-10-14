@@ -2,7 +2,7 @@
 
 # Banco Digital DIO
 
-Este projeto faz parte do módulo "Ganhando Produtividade com Spring Framework e Java" e se propõe a desenvolver uma API REST robusta do zero, aproveitando as inovações do Java 17 e o poder do Spring Boot 3, conhecido por sua autoconfiguração eficiente. Utilizando o Spring Data JPA para simplificar a interação com bancos de dados SQL e o OpenAPI (Swagger) para uma documentação clara, buscamos garantir uma experiência de desenvolvimento produtiva e compreensível. Para simplificar o deploy na nuvem, integramos o Railway, permitindo que os desenvolvedores foquem no desenvolvimento de soluções, enquanto a plataforma facilita o processo de implantação na nuvem, culminando em um projeto que destaca as tecnologias mais recentes e eficientes no ecossistema Java e Spring.
+Este projeto faz parte do módulo "Ganhando Produtividade com Spring Framework e Java" e se propõe a desenvolver uma API REST robusta do zero, aproveitando as inovações do Java 19 e o poder do Spring Boot 3, conhecido por sua autoconfiguração eficiente. Utilizando o Spring Data JPA para simplificar a interação com bancos de dados SQL e o OpenAPI (Swagger) para uma documentação clara, buscamos garantir uma experiência de desenvolvimento produtiva e compreensível. Para simplificar o deploy na nuvem, integramos o Railway, permitindo que os desenvolvedores foquem no desenvolvimento de soluções, enquanto a plataforma facilita o processo de implantação na nuvem, culminando em um projeto que destaca as tecnologias mais recentes e eficientes no ecossistema Java e Spring.
 
 ## :woman_mechanic: Linguagens e Ferramentas
 

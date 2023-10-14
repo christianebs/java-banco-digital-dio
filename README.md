@@ -58,7 +58,7 @@ User --|> News
 
 - Projeto
 
-[![Railway](https://img.shields.io/badge/reailway-0D1117?style=for-the-badge&logo=railway&logoColor=white)](https://java-banco-digital-dio.up.railway.app/swagger-ui/index.html)
+[![Railway](https://img.shields.io/badge/railway-0D1117?style=for-the-badge&logo=railway&logoColor=white)](https://java-banco-digital-dio.up.railway.app/swagger-ui/index.html)
 
 - Dependencias Spring
 
